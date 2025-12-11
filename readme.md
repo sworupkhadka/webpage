@@ -12,7 +12,7 @@
 ### Correct Version Screenshot
 If the screenshot loads correctly, it will appear below:
 
-![App Screenshot](/screenshots/%20landing-bright.png)
+
 
 ---
 ![App Screenshot](/screenshots/landing-dark.png)
